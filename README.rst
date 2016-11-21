@@ -114,11 +114,11 @@ Exempel
 
     hel main(hel argc, karaktar ** argv){
         hel a = 0;
-        scanf("%d",&a);
+        lasf("%d",&a);
         om(a == 0){
-            printf("Hej världen!\n");
+            skrivf("Hej världen!\n");
         }annars{
-            printf("Hejdå världen!\n");
+            skrivf("Hejdå världen!\n");
         }
         skickatillbaks 0;
     }
