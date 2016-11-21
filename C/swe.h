@@ -10,7 +10,7 @@
 #define tecken				char
 #define kostant				const
 #define fortsatt			continue
-#define uteblivet			default
+#define standard			default
 #define gor					do
 #define dubbel				double
 #define annars				else
