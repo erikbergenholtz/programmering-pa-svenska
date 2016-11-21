@@ -23,3 +23,5 @@ Hur kan jag vara med?
 Enkelt! Klona bara ``jävel``-förvaringen, lägg till en ny mapp för det språk du
 översatt, lägg en ``README.rst`` i mappen som förklarar de nya namnen och
 instruktioner för hur man använder det, och skicka en ryckförfrågan!
+
+.. _`git på svenska`: https://github.com/bjorne/git-pa-svenska
