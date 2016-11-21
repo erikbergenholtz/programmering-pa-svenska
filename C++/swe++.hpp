@@ -3,7 +3,7 @@
 #define sjalvbestammande	auto
 #define bryt				break
 #define fall				case
-#define karaktar			char
+#define tecken			char
 #define kostant				const
 #define fortsatt			continue
 #define uteblivet			default
@@ -39,8 +39,8 @@
 #if __cplusplus >= 199711L
 	#define justerasom alignas
 	#define justeraav alignof
-	#define karaktar16_t char16_t
-	#define karaktar32_t char32_t
+	#define tecken16_t char16_t
+	#define tecken32_t char32_t
 	#define konstantuttryck constexpr
 	#define deklareratyp decltype
 	#define ingetundantag noexcept
@@ -108,7 +108,7 @@
 #define typnamn typename
 #define anvander using
 #define virtuell virtual
-#define bredkaraktar_t wchar_t
+#define brett_tecken_t wchar_t
 #define xeller xor
 #define xeller_lika xor_eq
 #define sweut cout

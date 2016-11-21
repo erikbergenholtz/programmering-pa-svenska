@@ -7,7 +7,7 @@
 #define sjalvbestammande	auto
 #define bryt				break
 #define fall				case
-#define karaktar			char
+#define tecken				char
 #define kostant				const
 #define fortsatt			continue
 #define uteblivet			default
