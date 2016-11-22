@@ -13,7 +13,7 @@
 #define raknare				enum
 #define utifran				extern
 #define flyttal				float
-#define for					for
+#define varje				for
 #define gatill				goto
 #define om					if
 #define hel					int
