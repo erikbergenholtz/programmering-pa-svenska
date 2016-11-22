@@ -15,7 +15,7 @@ ett salig blandning av svenska och engelska::
 Jobbigt, eller hur? Men frukta icke, för aldrig mer kommer du behöva använda dig
 av denna svengelska, ty programmering på svenska är här!
 
-Insprerat av `git på svenska`_. Tack för inspirationen!
+Insprerat av `git på svenska`_. Tack @bjorne för inspirationen!
 
 Hur kan jag vara med?
 ---------------------
