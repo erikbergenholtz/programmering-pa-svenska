@@ -111,6 +111,8 @@
 #define brett_tecken_t wchar_t
 #define xeller xor
 #define xeller_lika xor_eq
+
+#define borjan main
 #define sweut cout
 #define swein cin
 #define slutrad endl
