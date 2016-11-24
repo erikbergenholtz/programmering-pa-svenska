@@ -37,5 +37,7 @@
 #define flyktig				volatile
 #define medan				while 
 
+#define borjan				main
+
 #define skrivf				printf
 #define lasf				scanf
